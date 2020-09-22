@@ -1,2 +1,2 @@
 # ecard-commercecloud
-Cartridge Salesforce Commerce Cloud
+Cartridge for Salesforce Commerce Cloud
